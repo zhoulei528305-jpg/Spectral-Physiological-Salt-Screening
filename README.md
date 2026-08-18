@@ -1,3 +1,6 @@
 # Spectral-Physiological-Salt-Screening
 oil salinization threatens global agriculture, and seed germination is especially salt-sensitive. Although seed imbibition is a critical early phase, salt responses during this stage remain poorly understood. Reliance on final morphological traits limits nondestructive early phenotyping, thereby hindering efficient screening and mechanistic insight. To overcome this limitation, we integrated continuous physiological measurements with hyperspectral data to model dynamic responses of key indicators and further leveraged hyperspectral-derived traits for early prediction and genetic dissection of salt tolerance.
 
+This repository contains the code and data associated with the article “Early detection and genetic insights into salt tolerance in rice by linking physiology and spectral reflectance during seed germination.”
+
+Specifically, hyperspectral data.zip and Physiological traits.zip were used for PLSR model training, while Dynamic spectral changes.zip was used for model application and prediction. The file Mapping.txt contains the hyperspectral wavelength information recorded in this study, and Morphometric.xlsx contains the morphological trait data of the evaluated rice varieties.
