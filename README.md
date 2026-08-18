@@ -3,4 +3,4 @@ oil salinization threatens global agriculture, and seed germination is especiall
 
 This repository contains the code and data associated with the article “Early detection and genetic insights into salt tolerance in rice by linking physiology and spectral reflectance during seed germination.”
 
-Specifically, hyperspectral data.zip and Physiological traits.zip were used for PLSR model training, while Dynamic spectral changes.zip was used for model application and prediction. The file Mapping.txt contains the hyperspectral wavelength information recorded in this study, and Morphometric.xlsx contains the morphological trait data of the evaluated rice varieties.
+Specifically, "hyperspectral data.zip" and "Physiological traits.zip" were used for PLSR model training, while "Dynamic spectral changes.zip" was used for model application and prediction. The file "Mapping.txt" contains the hyperspectral wavelength information recorded in this study, and "Morphometric.xlsx" contains the morphological trait data of the evaluated rice varieties.
