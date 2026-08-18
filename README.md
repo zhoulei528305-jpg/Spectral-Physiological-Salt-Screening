@@ -1,1 +1,3 @@
 # Spectral-Physiological-Salt-Screening
+oil salinization threatens global agriculture, and seed germination is especially salt-sensitive. Although seed imbibition is a critical early phase, salt responses during this stage remain poorly understood. Reliance on final morphological traits limits nondestructive early phenotyping, thereby hindering efficient screening and mechanistic insight. To overcome this limitation, we integrated continuous physiological measurements with hyperspectral data to model dynamic responses of key indicators and further leveraged hyperspectral-derived traits for early prediction and genetic dissection of salt tolerance.
+
